@@ -37,5 +37,12 @@
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
             </p>
         </div>
+        <div class="col-md-4">
+            <h2>About GitHub</h2>
+            <p>
+               its really cool stuff, you should try it out
+            </p>
+            
+        </div>
     </div>
 </asp:Content>
