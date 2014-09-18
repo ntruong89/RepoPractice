@@ -3,7 +3,7 @@ RepoPractice
 1. create a blank solution in Microsoft Visual Studio 2013 
   save it in C drive>documents>GitHub(you must create a Github folder in Documents)
 2. Add a new website to your Solution(make sure its in C# select webforms)
-  Make sure you save it in your GitHub\SolutionFolder\thisiswhereyounameyourwebsite
+  Make sure you save it in your GitHub\SolutionFolder\thisisyourwebsitefolder(nameit)
   
   When done save all your chanegs and close Microsoft Visual Studio 2013
   
