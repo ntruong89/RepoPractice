@@ -27,4 +27,4 @@ RepoPractice
 8. to add a README file,  from your github windows setting select view on GitHub(log in to your account)
   at the bottom you should see an option to add an readme file
 
-9. REMEMBER TO ALWAYS SYNC YOUR gITHUB FILES OR ELSE YOU WONT HAVE ACCESS TO IT FROM A DIFFERENT PC.
+9. REMEMBER TO ALWAYS SYNC YOUR GITHUB FILES OR ELSE YOU WONT HAVE ACCESS TO IT FROM A DIFFERENT PC.
